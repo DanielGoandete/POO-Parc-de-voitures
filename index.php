@@ -14,7 +14,7 @@
 <?php require_once 'carAction.php';?>
   <div class="container-md">
   		 <div class="row justify-content-center"> 
-  		 <a href="index.php?edit=2"  class="btn btn-info">Edit</a> 
+  		
   		 	<form action="carAction.php" method="POST">
   		 	
                 <table class="table">
